@@ -1,0 +1,2 @@
+require('elvis')
+require('plugins')
